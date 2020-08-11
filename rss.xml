@@ -1,19 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Personal Blog Syukrie]]></title><description><![CDATA[Personal Blog Sederhana Syukrie pengisi waktu senggang setelah mengurus usaha kuliah IT areta informatics college dan online class indonesia di tangerang.]]></description><link>https://syukrie.aretacollege.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 10 Aug 2020 15:35:53 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[Assalamualaikum Warahmatullahi Wabarakaatuh. Personal Blog ini saya buat sebagai tempat menuliskan dokumentasi dan tutorial tentang apa saja…]]></description><link>https://syukrie.aretacollege.com/about/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/about/</guid><content:encoded>&lt;p&gt;Assalamualaikum Warahmatullahi Wabarakaatuh.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Personal Blog Syukrie]]></title><description><![CDATA[Personal Blog Sederhana Syukrie pengisi waktu senggang setelah mengurus usaha kuliah IT areta informatics college dan online class indonesia di tangerang.]]></description><link>https://syukrie.aretacollege.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 Aug 2020 06:44:21 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[Assalamualaikum Warahmatullahi Wabarakaatuh. Personal Blog ini saya buat sebagai tempat menuliskan dokumentasi dan tutorial tentang apa saja…]]></description><link>https://syukrie.aretacollege.com/about/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/about/</guid><content:encoded>&lt;p&gt;Assalamualaikum Warahmatullahi Wabarakaatuh.&lt;/p&gt;
 &lt;p&gt;Personal Blog ini saya buat sebagai tempat menuliskan dokumentasi dan tutorial tentang apa saja yang saya pelajari baik di dunia IT, Bisnis, dan Digital Marketing. Saya sangat senang dengan pemrograman, networking, dan sistem server. Keseharian saya membuat program, menulis, dan berbisnis.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Less is more..&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[MEMBUAT WEB BLOG JAMSTACK DENGAN FRAMEWORK GATSBYJS]]></title><description><![CDATA[NOTE: Tulisan pertama saya di blog ini dengan menggunakan JAMStack. Setelah sekian lama tidak menulis Blog! Apa itu JAMStack? Apa yang saya…]]></description><link>https://syukrie.aretacollege.com/blog/gatsbyjs-part1/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/blog/gatsbyjs-part1/</guid><pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Tulisan pertama saya di blog ini dengan menggunakan JAMStack. Setelah sekian lama tidak menulis Blog!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Less is more..&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[POSTINGAN PERTAMA SAYA DI BLOG INI!]]></title><description><![CDATA[Bismillah... 
+Alhamdulillah puji syukur kehadirat Allah SWT berkesempatan untuk menulis kembali di blog.]]></description><link>https://syukrie.aretacollege.com/blog/hello-world/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/blog/hello-world/</guid><pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Bismillah...
+Alhamdulillah puji syukur kehadirat Allah SWT berkesempatan untuk menulis kembali di blog.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[MEMBUAT WEB BLOG JAMSTACK DENGAN FRAMEWORK GATSBYJS]]></title><description><![CDATA[NOTE: Tulisan pertama saya di blog ini dengan menggunakan JAMStack. Setelah sekian lama tidak menulis Blog! Apa itu JAMStack? Apa yang saya…]]></description><link>https://syukrie.aretacollege.com/blog/gatsbyjs-part1/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/blog/gatsbyjs-part1/</guid><pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Tulisan pertama saya di blog ini dengan menggunakan JAMStack. Setelah sekian lama tidak menulis Blog!&lt;/p&gt;
 &lt;h1&gt;Apa itu JAMStack?&lt;/h1&gt;
-&lt;p&gt;Apa yang saya pelajari dari pemrograman JAMStack dengan Framework Gatsby sangat menyenangkan. Banyak hal yang saya dapat pelajari disini. Ini bukan bahasa pemrograman biasa seperti halnya HTML.&lt;/p&gt;
+&lt;p&gt;Apa yang saya pelajari dari pemrograman JAMStack dengan Framework Gatsby sangat menyenangkan. Banyak hal yang saya dapat pelajari disini. Ini bukan bahasa pemrograman biasa seperti halnya HTML, Namun gabungan dari JavaScripts+API+Markup/HTML dan Library ReactJs.&lt;/p&gt;
 &lt;p&gt;JAMStack adalah bahasa pemrogram luar biasa untuk membangun sebuah frontend website yang ciamik, cantik, cepat dan menyenangkan. Sungguh sangat menggoda saya untuk terus memperdalamnya sampai mahir. Sample web yang saya kembangkan dengan JAMStack bisa dilihat di link ini &lt;a href=&quot;https://www.aretacollege.com&quot;&gt;https://www.aretacollege.com&lt;/a&gt; atau web blog ini &lt;a href=&quot;https://syukrie.aretacollege.com&quot;&gt;https://syukrie.aretacollge.com&lt;/a&gt; sendiri menggunakan JAMStack.&lt;/p&gt;
 &lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-# Langkah Persiapan
-Pada tahap ini anda harus mempersiapkan segala sesuatunya seperti, nama domain yang akan digunakan boleh domain utama atau subdomain. Konsep website yang akan dibangun berupa landingpage, blog, atau web profile dll.
+&lt;h1&gt;Langkah Persiapan&lt;/h1&gt;
+&lt;p&gt;Pada tahap ini anda harus mempersiapkan segala sesuatunya seperti, nama domain yang akan digunakan boleh domain utama atau subdomain. Konsep website yang akan dibangun berupa landingpage, blog, atau web profile dll.&lt;/p&gt;
 &lt;p&gt;Pada kasus ini saya akan membahasa pembuat web blog dengan konsep blog ini adalah untuk membuat dokumentasi atau catatan harian pribadi saya selama belajar pemrograman JAMStack dengan GatsbyJs. Subdomain yang akan saya gunakan syukrie.aretacollege.com yang menginduk dari domain utama aretacollege.com.&lt;/p&gt;
 &lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-# Membuat Akun Github
-## Langkah-langkah membuat akun di Github secara gratis
-1. Anda dapat mendaftar di Github dengan gratis, akses websitenya di https://github.com. Berikut tampilan halaman Github.
-![Github](https://i.ibb.co/ZLCyw7K/create-github.png)
-&lt;ol start=&quot;2&quot;&gt;
+&lt;h1&gt;Membuat Akun Github&lt;/h1&gt;
+&lt;h2&gt;Langkah-langkah membuat akun di Github secara gratis&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Anda dapat mendaftar di Github dengan gratis, akses websitenya di &lt;a href=&quot;https://github.com&quot;&gt;https://github.com&lt;/a&gt;. Berikut tampilan halaman Github.
+&lt;img src=&quot;https://i.ibb.co/ZLCyw7K/create-github.png&quot; alt=&quot;Github&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Jika anda sudah mendaftar, maka akan tampil halaman Github seperti berikut:
 &lt;img src=&quot;https://i.ibb.co/Wkg650C/create-repo.png&quot; alt=&quot;HalamanGithub&quot;&gt;&lt;/li&gt;
 &lt;li&gt;Create repository di github dengan klik tombol menu New, buat nama repository sebagai contoh syukrie-blog. Terlihat seperti gambar berikut:
@@ -22,8 +24,19 @@ Pada tahap ini anda harus mempersiapkan segala sesuatunya seperti, nama domain y
 &lt;li&gt;Setelah membuat repository, maka akan terbentuk sebuah repo dengan yang sudah anda buat, misalnya syukrie-blog. Berikut tampilan gambarnya:
 &lt;img src=&quot;https://i.ibb.co/hVf7W2b/repo-syukrie-blog.png&quot; alt=&quot;CreateRepo&quot;&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;Disinilah tempat anda menyimpan file-file dan dokumen-dokumen blog anda. &lt;/p&gt;
+&lt;h1&gt;Membuat Domain/Subdomain di Cloudflare&lt;/h1&gt;
+&lt;p&gt;Pada contoh kasus disini saya akan menjelaskan bagaimana membuat subdomain di cloudflare.com. Agap saja anda sudah punya domain utama, sebagai contoh saya punya domain utama yakni aretacollege.com.
+Berikut adalah langkah-langkahnya:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Buka website cloudeflare.com, tampilan websitenya seperti gambar berikut:
+&lt;img src=&quot;https://i.ibb.co/0C3p6jJ/sign-up-cloudflare.png&quot; alt=&quot;RegisterCloudflare&quot;&gt;&lt;/li&gt;
+&lt;li&gt;Jika anda belum memiliki akun di cloudflare, silahkan daftar gratis kog. Cara daftarnya klik menu Sign Up.&lt;/li&gt;
+&lt;li&gt;Setelah berhasil mendaftar, anda akan masuk ke dashboard. Pilih Add domain, lalu pilih domain anda. Sebagai contoh saya membuat subdomain syukrie.aretacollege.com, maka pilih Add record kemudian pilih CNAME, contoh seperti gambar berikut:
+&lt;img src=&quot;https://i.ibb.co/557dgLK/cname-subdomain.png&quot; alt=&quot;AddRecord&quot;&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-## Langkah-langkah build file gatsbyjs ke github.com 
+&lt;h2&gt;Langkah-langkah build file gatsbyjs ke github.com&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Masuk ke folder dokumen gatsbyjs anda, misalnya&lt;/p&gt;
@@ -89,6 +102,4 @@ Personal Blog ini saya buat sebagai tempat menuliskan dokumentasi dan tutorial t
 &lt;/ol&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$gatsby new personal-blog https://github.com/wangonya/the-plain-gatsby&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;Promo Areta Informatics College&lt;/h2&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mYKPvkup4xA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item><item><title><![CDATA[POSTINGAN PERTAMA SAYA DI BLOG INI!]]></title><description><![CDATA[Bismillah... 
-Alhamdulillah puji syukur kehadirat Allah SWT berkesempatan untuk menulis kembali di blog.]]></description><link>https://syukrie.aretacollege.com/blog/hello-world/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/blog/hello-world/</guid><pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Bismillah...
-Alhamdulillah puji syukur kehadirat Allah SWT berkesempatan untuk menulis kembali di blog.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mYKPvkup4xA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;</content:encoded></item></channel></rss>
