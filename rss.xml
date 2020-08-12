@@ -1,8 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Personal Blog Syukrie]]></title><description><![CDATA[Personal Blog Sederhana Syukrie pengisi waktu senggang setelah mengurus usaha kuliah IT areta informatics college dan online class indonesia di tangerang.]]></description><link>https://syukrie.aretacollege.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 Aug 2020 06:44:21 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[Assalamualaikum Warahmatullahi Wabarakaatuh. Personal Blog ini saya buat sebagai tempat menuliskan dokumentasi dan tutorial tentang apa saja…]]></description><link>https://syukrie.aretacollege.com/about/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/about/</guid><content:encoded>&lt;p&gt;Assalamualaikum Warahmatullahi Wabarakaatuh.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Personal Blog Syukrie]]></title><description><![CDATA[Personal Blog Sederhana Syukrie pengisi waktu senggang setelah mengurus usaha kuliah IT areta informatics college dan online class indonesia di tangerang.]]></description><link>https://syukrie.aretacollege.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 12 Aug 2020 10:40:12 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[Assalamualaikum Warahmatullahi Wabarakaatuh. Personal Blog ini saya buat sebagai tempat menuliskan dokumentasi dan tutorial tentang apa saja…]]></description><link>https://syukrie.aretacollege.com/about/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/about/</guid><content:encoded>&lt;p&gt;Assalamualaikum Warahmatullahi Wabarakaatuh.&lt;/p&gt;
 &lt;p&gt;Personal Blog ini saya buat sebagai tempat menuliskan dokumentasi dan tutorial tentang apa saja yang saya pelajari baik di dunia IT, Bisnis, dan Digital Marketing. Saya sangat senang dengan pemrograman, networking, dan sistem server. Keseharian saya membuat program, menulis, dan berbisnis.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Less is more..&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[POSTINGAN PERTAMA SAYA DI BLOG INI!]]></title><description><![CDATA[Bismillah... 
+&lt;p&gt;&lt;strong&gt;Less is more..&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[KOLEKSI AUDIO SONY FH VINTAGE]]></title><description><![CDATA[NOTE: Tulisan ini review koleksi audio vintage saya, yakni boombox Sony FH 15R. Cekidot ya... :)]]></description><link>https://syukrie.aretacollege.com/blog/myhoby-audio/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/blog/myhoby-audio/</guid><pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Tulisan ini review koleksi audio vintage saya, yakni boombox Sony FH 15R. Cekidot ya... :)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[MEMBUAT WEB BLOG JAMSTACK DENGAN FRAMEWORK GATSBYJS PART 3]]></title><description><![CDATA[NOTE: Tutorial GatsbyJs Part 3, melanjutkan catatan saya sebagai dokumentasi belajar GatsbyJs. Langkah-langkah build file gatsbyjs ke github…]]></description><link>https://syukrie.aretacollege.com/blog/gatsbyjs-part3/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/blog/gatsbyjs-part3/</guid><pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Tutorial GatsbyJs Part 3, melanjutkan catatan saya sebagai dokumentasi belajar GatsbyJs.&lt;/p&gt;
+&lt;h1&gt;Langkah-langkah build file gatsbyjs ke github.com&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Masuk ke folder dokumen gatsbyjs anda, misalnya&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$cd personal-blog&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;develop local file gatsbyjs anda dengan perintah berikut:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$gatsby build&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;Buat repository di github, langkah-langkahnya sudah kita bahas sebelumnya di atas.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Install plugin gh-pages di console atau terminal anda seperti perintah berikut:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$npm install gh-pages&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Edit file gatsby-config.js tambahkan folder sesuai dengan repostory anda di github&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$vi gatsby-config.js&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;module.exports = {
+pathPrefix: &amp;quot;/syukrie-blog&amp;quot;,
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Buat perintah deploy di file package.json&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$vi package.json&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
+&amp;quot;scripts&amp;quot;: {
+&amp;quot;deploy&amp;quot;: &amp;quot;gatsby build --prefix=paths &amp;amp;&amp;amp; gh-pages -d public&amp;quot;
+}
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lakukan remote terhadap git anda dengan perintah berikut:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$git remote add origin https://github.com/syukrie77/syukrie-blog.git&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jalankan perintah deploy seperti berikut:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$npm run deploy&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[MEMBUAT WEB BLOG JAMSTACK DENGAN FRAMEWORK GATSBYJS PART 2]]></title><description><![CDATA[NOTE: Tutorial GatsbyJs Part 2, melanjutkan catatan saya sebagai dokumentasi belajar GatsbyJs. Membuat Project JAMStack, contoh kasus…]]></description><link>https://syukrie.aretacollege.com/blog/gatsbyjs-part2/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/blog/gatsbyjs-part2/</guid><pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Tutorial GatsbyJs Part 2, melanjutkan catatan saya sebagai dokumentasi belajar GatsbyJs.&lt;/p&gt;
+&lt;h1&gt;Membuat Project JAMStack, contoh kasus membuat web blog dengan subdomain syukrie.aretacollege.com&lt;/h1&gt;
+&lt;p&gt;Akses web &lt;a href=&quot;https://jamstackthemes.dev/ssg/gatsby/&quot;&gt;https://jamstackthemes.dev/ssg/gatsby/&lt;/a&gt; untuk mendapatkan theme blog yang sesuai dengan keinginan anda. Di sini banyak sekali theme yang bisa anda gunakan secara gratis.
+Sebagai contoh saya akan membuat web blog seperti gambar berikut:&lt;/p&gt;</content:encoded></item><item><title><![CDATA[POSTINGAN PERTAMA SAYA DI BLOG INI!]]></title><description><![CDATA[Bismillah... 
 Alhamdulillah puji syukur kehadirat Allah SWT berkesempatan untuk menulis kembali di blog.]]></description><link>https://syukrie.aretacollege.com/blog/hello-world/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/blog/hello-world/</guid><pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Bismillah...
-Alhamdulillah puji syukur kehadirat Allah SWT berkesempatan untuk menulis kembali di blog.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[MEMBUAT WEB BLOG JAMSTACK DENGAN FRAMEWORK GATSBYJS]]></title><description><![CDATA[NOTE: Tulisan pertama saya di blog ini dengan menggunakan JAMStack. Setelah sekian lama tidak menulis Blog! Apa itu JAMStack? Apa yang saya…]]></description><link>https://syukrie.aretacollege.com/blog/gatsbyjs-part1/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/blog/gatsbyjs-part1/</guid><pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Tulisan pertama saya di blog ini dengan menggunakan JAMStack. Setelah sekian lama tidak menulis Blog!&lt;/p&gt;
+Alhamdulillah puji syukur kehadirat Allah SWT berkesempatan untuk menulis kembali di blog.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[MEMBUAT WEB BLOG JAMSTACK DENGAN FRAMEWORK GATSBYJS PART 1]]></title><description><![CDATA[NOTE: Tulisan pertama saya di blog ini dengan menggunakan JAMStack. Setelah sekian lama tidak menulis Blog! Apa itu JAMStack? Apa yang saya…]]></description><link>https://syukrie.aretacollege.com/blog/gatsbyjs-part1/</link><guid isPermaLink="false">https://syukrie.aretacollege.com/blog/gatsbyjs-part1/</guid><pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Tulisan pertama saya di blog ini dengan menggunakan JAMStack. Setelah sekian lama tidak menulis Blog!&lt;/p&gt;
 &lt;h1&gt;Apa itu JAMStack?&lt;/h1&gt;
 &lt;p&gt;Apa yang saya pelajari dari pemrograman JAMStack dengan Framework Gatsby sangat menyenangkan. Banyak hal yang saya dapat pelajari disini. Ini bukan bahasa pemrograman biasa seperti halnya HTML, Namun gabungan dari JavaScripts+API+Markup/HTML dan Library ReactJs.&lt;/p&gt;
 &lt;p&gt;JAMStack adalah bahasa pemrogram luar biasa untuk membangun sebuah frontend website yang ciamik, cantik, cepat dan menyenangkan. Sungguh sangat menggoda saya untuk terus memperdalamnya sampai mahir. Sample web yang saya kembangkan dengan JAMStack bisa dilihat di link ini &lt;a href=&quot;https://www.aretacollege.com&quot;&gt;https://www.aretacollege.com&lt;/a&gt; atau web blog ini &lt;a href=&quot;https://syukrie.aretacollege.com&quot;&gt;https://syukrie.aretacollge.com&lt;/a&gt; sendiri menggunakan JAMStack.&lt;/p&gt;
@@ -34,6 +78,12 @@ Berikut adalah langkah-langkahnya:&lt;/p&gt;
 &lt;li&gt;Jika anda belum memiliki akun di cloudflare, silahkan daftar gratis kog. Cara daftarnya klik menu Sign Up.&lt;/li&gt;
 &lt;li&gt;Setelah berhasil mendaftar, anda akan masuk ke dashboard. Pilih Add domain, lalu pilih domain anda. Sebagai contoh saya membuat subdomain syukrie.aretacollege.com, maka pilih Add record kemudian pilih CNAME, contoh seperti gambar berikut:
 &lt;img src=&quot;https://i.ibb.co/557dgLK/cname-subdomain.png&quot; alt=&quot;AddRecord&quot;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;KETERANGAN:&lt;/strong&gt;
+Name: syukrie adalah subdomain yang saya buat dengan tipe CNAME, target 	syukrie77.github.io yang merupakan alamat website saya di github.com yang sudah saya daftarkan. Sebaiknya sebelum melakukan setting ini anda sudah membuat akun di github.&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;Untuk melakukan pengetesaan bahwa subdomain anda sudah aktif lakukan perintah nslookup di console atau terminal anda, seperti terlihat di gambar berikut:
+&lt;img src=&quot;https://i.ibb.co/j5JhjwY/check-cname-subdomain.png&quot; alt=&quot;Check-CNAME&quot;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
 &lt;h2&gt;Langkah-langkah build file gatsbyjs ke github.com&lt;/h2&gt;
